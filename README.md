@@ -15,7 +15,7 @@ date: 日期格式，yyyy-MM-dd
 
 
 关于车站名称的解析，通过开发者工具可以看到下边这个文件，车站名对应的Code都在这个文件里，可以写个脚步将其解析成set,方便后续使用,stations_code.py是解析后的结果
-"<script type="text/javascript" src="/otn/resources/js/framework/station_name.js?station_version=1.8964" xml:space="preserve"></script>"
+"src="/otn/resources/js/framework/station_name.js?station_version=1.8964" "
 
 
 
